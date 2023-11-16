@@ -52,6 +52,7 @@ extension_services:
             bigIqPassword: R4qxPtTdN3KkX789
             licensePool: Big-IP-Base-Keys-Cat1
             skuKeyword1: F5-BIG-MSP-ABT-200M
+            reachable: true
             bigIpUsername: admin
             bigIpPassword:  "{{{BIGIP_PASSWORD}}}"            
           admin:
